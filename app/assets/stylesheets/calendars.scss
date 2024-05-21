@@ -25,7 +25,7 @@ body {
 .date {
   height: 5vh;
   display: flex;
-  font-size: 3vh;
+  font-size: 2vh;
   align-items: center;
   justify-content: center;
   border-bottom: medium solid rgb(0, 0, 0);
@@ -47,6 +47,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 15vh;
+  
 }
 
 .label {
@@ -64,4 +65,5 @@ body {
   height: 4vh;
   width: 13vw;
   margin: 0 2vw;
+  
 }
